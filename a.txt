@@ -1,0 +1,29 @@
+[
+    {
+        "table": "B",
+        "no": "047/B/NBP/2022",
+        "effectiveDate": "2022-11-23",
+        "rates": [
+            {
+                "currency": "afgani (Afganistan)",
+                "code": "AFN",
+                "mid": 0.050864
+            },
+            {
+                "currency": "ariary (Madagaskar)",
+                "code": "MGA",
+                "mid": 0.001051
+            },
+            {
+                "currency": "balboa (Panama)",
+                "code": "PAB",
+                "mid": 4.5480
+            },
+            {
+                "currency": "birr etiopski",
+                "code": "ETB",
+                "mid": 0.0852
+            }
+        ]
+    }
+]
