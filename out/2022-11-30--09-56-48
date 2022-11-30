@@ -1,0 +1,151 @@
+effectiveDate,currency,code,mid
+2022-11-29,bat (Tajlandia),THB,0.1275
+2022-11-29,dolar amerykański,USD,4.5164
+2022-11-29,dolar australijski,AUD,3.0344
+2022-11-29,dolar Hongkongu,HKD,0.5782
+2022-11-29,dolar kanadyjski,CAD,3.3571
+2022-11-29,dolar nowozelandzki,NZD,2.8127
+2022-11-29,dolar singapurski,SGD,3.2885
+2022-11-29,euro,EUR,4.6813
+2022-11-29,forint (Węgry),HUF,0.011472
+2022-11-29,frank szwajcarski,CHF,4.7449
+2022-11-29,funt szterling,GBP,5.4141
+2022-11-29,hrywna (Ukraina),UAH,0.1258
+2022-11-29,jen (Japonia),JPY,0.032702
+2022-11-29,korona czeska,CZK,0.1924
+2022-11-29,korona duńska,DKK,0.6295
+2022-11-29,korona islandzka,ISK,0.031824
+2022-11-29,korona norweska,NOK,0.453
+2022-11-29,korona szwedzka,SEK,0.4294
+2022-11-29,kuna (Chorwacja),HRK,0.6201
+2022-11-29,lej rumuński,RON,0.9512
+2022-11-29,lew (Bułgaria),BGN,2.3935
+2022-11-29,lira turecka,TRY,0.2423
+2022-11-29,nowy izraelski szekel,ILS,1.3135
+2022-11-29,peso chilijskie,CLP,0.004944
+2022-11-29,peso filipińskie,PHP,0.0798
+2022-11-29,peso meksykańskie,MXN,0.2356
+2022-11-29,rand (Republika Południowej Afryki),ZAR,0.2654
+2022-11-29,real (Brazylia),BRL,0.8417
+2022-11-29,ringgit (Malezja),MYR,1.0018
+2022-11-29,rupia indonezyjska,IDR,0.0002869
+2022-11-29,rupia indyjska,INR,0.055266
+2022-11-29,won południowokoreański,KRW,0.0034
+2022-11-29,yuan renminbi (Chiny),CNY,0.6299
+2022-11-29,SDR (MFW),XDR,5.893
+2022-11-23,afgani (Afganistan),AFN,0.050864
+2022-11-23,ariary (Madagaskar),MGA,0.001051
+2022-11-23,balboa (Panama),PAB,4.548
+2022-11-23,birr etiopski,ETB,0.0852
+2022-11-23,boliwar soberano (Wenezuela),VES,0.4564
+2022-11-23,boliwiano (Boliwia),BOB,0.6574
+2022-11-23,colon kostarykański,CRC,0.007502
+2022-11-23,colon salwadorski,SVC,0.52
+2022-11-23,cordoba oro (Nikaragua),NIO,0.1265
+2022-11-23,dalasi (Gambia),GMD,0.0718
+2022-11-23,denar (Macedonia Północna),MKD,0.076224
+2022-11-23,dinar algierski,DZD,0.032778
+2022-11-23,dinar bahrajski,BHD,12.0777
+2022-11-23,dinar iracki,IQD,0.003119
+2022-11-23,dinar jordański,JOD,6.4142
+2022-11-23,dinar kuwejcki,KWD,14.7829
+2022-11-23,dinar libijski,LYD,0.9251
+2022-11-23,dinar serbski,RSD,0.04
+2022-11-23,dinar tunezyjski,TND,1.3958
+2022-11-23,dirham marokański,MAD,0.4245
+2022-11-23,dirham ZEA (Zjednoczone Emiraty Arabskie),AED,1.2396
+2022-11-23,dobra (Wyspy Świętego Tomasza i Książęca),STN,0.1898
+2022-11-23,dolar bahamski,BSD,4.548
+2022-11-23,dolar barbadoski,BBD,2.2549
+2022-11-23,dolar belizeński,BZD,2.2587
+2022-11-23,dolar brunejski,BND,3.2931
+2022-11-23,dolar Fidżi,FJD,2.0402
+2022-11-23,dolar gujański,GYD,0.021761
+2022-11-23,dolar jamajski,JMD,0.0295
+2022-11-23,dolar liberyjski,LRD,0.0296
+2022-11-23,dolar namibijski,NAD,0.2639
+2022-11-23,dolar surinamski,SRD,0.1483
+2022-11-23,dolar Trynidadu i Tobago,TTD,0.6708
+2022-11-23,dolar wschodniokaraibski,XCD,1.6801
+2022-11-23,dolar Wysp Salomona,SBD,0.5407
+2022-11-23,dolar Zimbabwe,ZWL,0.0068
+2022-11-23,dong (Wietnam),VND,0.00018324
+2022-11-23,dram (Armenia),AMD,0.011512
+2022-11-23,escudo Zielonego Przylądka,CVE,0.0424
+2022-11-23,florin arubański,AWG,2.5152
+2022-11-23,frank burundyjski,BIF,0.002199
+2022-11-23,frank CFA BCEAO ,XOF,0.007119
+2022-11-23,frank CFA BEAC,XAF,0.00707
+2022-11-23,frank CFP  ,XPF,0.039461
+2022-11-23,frank Dżibuti,DJF,0.025574
+2022-11-23,frank gwinejski,GNF,0.000528
+2022-11-23,frank Komorów,KMF,0.009489
+2022-11-23,frank kongijski (Dem. Republika Konga),CDF,0.002215
+2022-11-23,frank rwandyjski,RWF,0.004212
+2022-11-23,funt egipski,EGP,0.1852
+2022-11-23,funt gibraltarski,GIP,5.4205
+2022-11-23,funt libański,LBP,0.003011
+2022-11-23,funt południowosudański,SSP,0.007227
+2022-11-23,funt sudański,SDG,0.008
+2022-11-23,funt syryjski,SYP,0.0018
+2022-11-23,Ghana cedi ,GHS,0.314
+2022-11-23,gourde (Haiti),HTG,0.033
+2022-11-23,guarani (Paragwaj),PYG,0.000635
+2022-11-23,gulden Antyli Holenderskich,ANG,2.5262
+2022-11-23,kina (Papua-Nowa Gwinea),PGK,1.2921
+2022-11-23,kip (Laos),LAK,0.000263
+2022-11-23,kwacha malawijska,MWK,0.004436
+2022-11-23,kwacha zambijska,ZMW,0.2714
+2022-11-23,kwanza (Angola),AOA,0.009
+2022-11-23,|kyat (Myanmar, Birma)|,MMK,0.002168
+2022-11-23,lari (Gruzja),GEL,1.6847
+2022-11-23,lej Mołdawii,MDL,0.2365
+2022-11-23,lek (Albania),ALL,0.040236
+2022-11-23,lempira (Honduras),HNL,0.1843
+2022-11-23,leone (Sierra Leone),SLE,0.2446
+2022-11-23,lilangeni (Eswatini),SZL,0.2639
+2022-11-23,loti (Lesotho),LSL,0.2639
+2022-11-23,manat azerbejdżański,AZN,2.6773
+2022-11-23,metical (Mozambik),MZN,0.071
+2022-11-23,naira (Nigeria),NGN,0.010274
+2022-11-23,nakfa (Erytrea),ERN,0.302
+2022-11-23,nowy dolar tajwański,TWD,0.1458
+2022-11-23,nowy manat (Turkmenistan),TMT,1.3026
+2022-11-23,ouguiya (Mauretania),MRU,0.1197
+2022-11-23,pa'anga (Tonga),TOP,1.9089
+2022-11-23,pataca (Makau),MOP,0.5651
+2022-11-23,peso argentyńskie,ARS,0.0277
+2022-11-23,peso dominikańskie,DOP,0.0837
+2022-11-23,peso kolumbijskie,COP,0.000928
+2022-11-23,peso kubańskie,CUP,4.548
+2022-11-23,peso urugwajskie,UYU,0.1151
+2022-11-23,pula (Botswana),BWP,0.351
+2022-11-23,quetzal (Gwatemala),GTQ,0.5844
+2022-11-23,rial irański,IRR,0.000108
+2022-11-23,rial jemeński,YER,0.018195
+2022-11-23,rial katarski,QAR,1.2439
+2022-11-23,rial omański,OMR,11.8248
+2022-11-23,rial saudyjski,SAR,1.2114
+2022-11-23,riel (Kambodża),KHR,0.001101
+2022-11-23,rubel białoruski,BYN,1.2955
+2022-11-23,rubel rosyjski,RUB,0.0752
+2022-11-23,rupia lankijska,LKR,0.012389
+2022-11-23,rupia (Malediwy),MVR,0.2945
+2022-11-23,rupia Mauritiusu,MUR,0.1043
+2022-11-23,rupia nepalska,NPR,0.034793
+2022-11-23,rupia pakistańska,PKR,0.0203
+2022-11-23,rupia seszelska,SCR,0.3494
+2022-11-23,sol (Peru),PEN,1.1837
+2022-11-23,som (Kirgistan),KGS,0.0539
+2022-11-23,somoni (Tadżykistan),TJS,0.4524
+2022-11-23,sum (Uzbekistan),UZS,0.000406
+2022-11-23,szyling kenijski,KES,0.037242
+2022-11-23,szyling somalijski,SOS,0.008008
+2022-11-23,szyling tanzański,TZS,0.001952
+2022-11-23,szyling ugandyjski,UGX,0.001217
+2022-11-23,taka (Bangladesz),BDT,0.044631
+2022-11-23,tala (Samoa),WST,1.6593
+2022-11-23,tenge (Kazachstan),KZT,0.009809
+2022-11-23,tugrik (Mongolia),MNT,0.001331
+2022-11-23,vatu (Vanuatu),VUV,0.037487
+2022-11-23,wymienialna marka (Bośnia i Hercegowina),BAM,2.3959
